@@ -68,3 +68,7 @@ generateBtn.addEventListener("click", () => {
 
 - Font: [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins)
 
+## Demo
+![image](https://github.com/CBJdereal/QrCodegen/assets/64748236/cda7f7c5-51a0-4610-b7c3-72acf2d72abf)
+
+
